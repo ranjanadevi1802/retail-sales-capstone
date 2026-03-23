@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Raw dataset (too large for GitHub)
+data/Sample - Superstore.csv
+
+# Database file
+data/*.db
